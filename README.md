@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-with-javascript
+# Tic-Tac-Toe-with-javascript-and-jquery
